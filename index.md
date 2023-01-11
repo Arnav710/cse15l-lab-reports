@@ -1,1 +1,1 @@
-Check
+Hello, world!
