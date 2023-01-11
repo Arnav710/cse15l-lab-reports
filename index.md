@@ -18,7 +18,6 @@ details about the following:
 4. A popup will show up, which will give you the option to modify any installation settings. You should be fine even if you just click next for each of the settings to go with the default setup.
 
 5. That's it! Now you have your text editor set up!
-
   <img width="945" alt="image" src="https://user-images.githubusercontent.com/63532613/211912904-6b55a021-e375-43ac-a09d-001d0b92a1cc.png">
 
 
