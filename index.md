@@ -26,4 +26,13 @@ details about the following:
 
 ## Establising a Remote Conenction
 
+In CSE 15L, we have a course specific account. We will use this account and the VSCode terminal in order to establish a remote connection so that we can perform various tasks over the internet.
+
+1. The first step is to install git.
+    * Check if git is already installed on your machine by typing out `git --version` on the VSCode terminal. If git is already installed, you should get a response as shown in the image below.
+      <img width="290" alt="image" src="https://user-images.githubusercontent.com/63532613/211924652-bfa4da35-2931-47c1-a5b6-12d177e55a23.png" class = "center">
+
+    * If git is not installed, go to [https://gitforwindows.org/](https://gitforwindows.org/) and click on the download button. Follow the instructions as they appear to set up git. Once done, you can run `git --version` to confirm whether git has been installed.
+
+
 ## Trying out Commands on the Terminal
