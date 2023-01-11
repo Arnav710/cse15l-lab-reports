@@ -31,9 +31,11 @@ In CSE 15L, we have a course specific account. We will use this account and the 
 1. The first step is to install git.
     * Check if git is already installed on your machine by typing out `git --version` on the VSCode terminal. If git is already installed, you should get a response as shown in the image below.
    
-      <img width="290" alt="image" src="https://user-images.githubusercontent.com/63532613/211924652-bfa4da35-2931-47c1-a5b6-12d177e55a23.png" class = "center">
-
     * If git is not installed, go to [https://gitforwindows.org/](https://gitforwindows.org/) and click on the download button. Follow the instructions as they appear to set up git. Once done, you can run `git --version` to confirm whether git has been installed.
+
+    <p align="center">
+          <img width="290" alt="image" src="https://user-images.githubusercontent.com/63532613/211924652-bfa4da35-2931-47c1-a5b6-12d177e55a23.png">
+   </p>
 
 2. Set up bash on the VSCode terminal by following the instructions present on the following link: [Bash Setup]([https://gitforwindows.org/](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994))
 
@@ -44,7 +46,11 @@ In CSE 15L, we have a course specific account. We will use this account and the 
 Complete the part that says `???` looking at the username of your CSE 15L account. This information can be found on  [Educational Technology Services](https://sdacs.ucsd.edu/~icc/index.php).
 
 4. when you receive the prompt that says `Are you sure you want to continue connecting (yes/no/[fingerprint])?`, type yes and press enter. Then, enter your password when prompted to do so. You will get the following message when the remote connection has been established successfully.
-  <img width="322" alt="image" src="https://user-images.githubusercontent.com/63532613/211927938-c6c027f5-01b1-4562-a2a7-527a2a8fd29e.png">
+
+  <p align="center">
+    <img width="322" alt="image" src="https://user-images.githubusercontent.com/63532613/211927938-c6c027f5-01b1-4562-a2a7-527a2a8fd29e.png">
+  </p>
+  
   
 
 ## Trying out Commands on the Terminal
