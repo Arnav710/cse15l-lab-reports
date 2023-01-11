@@ -11,6 +11,15 @@ details about the following:
   <img width="946" alt="image" src="https://user-images.githubusercontent.com/63532613/211911901-36e41b91-c32c-4e7b-b6a0-d75e678f7551.png">
   
 2. Based on your operating system, click the download button to install the latest version of VSCode on your system.
+  <img width="960" alt="image" src="https://user-images.githubusercontent.com/63532613/211912067-5ff4ea0c-afba-4a53-b76c-286cb30bda82.png">
+
+3. Once the installation process is complete, launch the .exe file by clicking on it.
+
+4. A popup will show up, which will give you the option to modify any installation settings. You should be fine even if you just click next for each of the settings to go with the default setup.
+
+5. That's it! Now you have your text editor set up!
+
+  <img width="960" alt="image" src="https://user-images.githubusercontent.com/63532613/211912904-6b55a021-e375-43ac-a09d-001d0b92a1cc.png">
 
 
 ## Establising a Remote Conenction
