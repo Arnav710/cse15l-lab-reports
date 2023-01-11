@@ -11,7 +11,7 @@ details about the following:
   <img width="945" alt="image" src="https://user-images.githubusercontent.com/63532613/211911901-36e41b91-c32c-4e7b-b6a0-d75e678f7551.png" class = "center">
   
 2. Based on your operating system, click the download button to install the latest version of VSCode on your system.
-  <img width="945" alt="image" src="https://user-images.githubusercontent.com/63532613/211912067-5ff4ea0c-afba-4a53-b76c-286cb30bda82.png" class = "center">
+  <img width="953" alt="image" src="https://user-images.githubusercontent.com/63532613/211923348-e5cd4047-ed48-429c-a593-e8d320a21119.png">
 
 3. Once the installation process is complete, launch the .exe file by clicking on it.
 
