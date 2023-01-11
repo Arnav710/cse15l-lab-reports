@@ -44,7 +44,6 @@ In CSE 15L, we have a course specific account. We will use this account and the 
   `ssh cs15lwi23<???>@ieng6.ucsd.edu`
   
 Complete the part that says `???` looking at the username of your CSE 15L account. This information can be found on  [Educational Technology Services](https://sdacs.ucsd.edu/~icc/index.php).
-
 4. when you receive the prompt that says `Are you sure you want to continue connecting (yes/no/[fingerprint])?`, type yes and press enter. Then, enter your password when prompted to do so. You will get the following message when the remote connection has been established successfully.
 
   <p align="center">
