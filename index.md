@@ -50,7 +50,19 @@ Complete the part that says `???` looking at the username of your CSE 15L accoun
   <p align="center">
     <img width="322" alt="image" src="https://user-images.githubusercontent.com/63532613/211927938-c6c027f5-01b1-4562-a2a7-527a2a8fd29e.png">
   </p>
-  
-  
 
 ## Trying out Commands on the Terminal
+
+Now that you have set up the Visual Studio code and established a remote connection, it is now time to try out some commands. The following are some of the commands you can execute:
+
+* pwd
+* ls
+* ls -a
+* ls 
+* ls -lat
+* cd
+* cat <fileName>
+
+<ins>*Challenge Question*</ins>
+  
+*Try to find a file called perl5 and use the cd command to reach it. To verify if you have been able to reach the file use the `pwd` command*
