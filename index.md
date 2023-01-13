@@ -1,10 +1,14 @@
 # Getting Started with CSE 15L
 
+---	
+
 This page will help you navigate through the inital phases of CSE 15L by telling you how to get started and set up the environment for this course. This page contains 
 details about the following:
 * *Installing VSCode*
 * *Establising a Remote Conenction*
 * *Trying out Commands on the Terminal*
+
+---	
 
 ## Installing VSCode
 1. Go to [https://code.visualstudio.com/download](https://code.visualstudio.com/download). 
@@ -23,6 +27,7 @@ details about the following:
 
   <img width="945" alt="image" src="https://user-images.githubusercontent.com/63532613/211912904-6b55a021-e375-43ac-a09d-001d0b92a1cc.png" class = "center">
 
+---	
 
 ## Establising a Remote Conenction
 
@@ -51,6 +56,8 @@ Complete the part that says `???` looking at the username of your CSE 15L accoun
     <img width="322" alt="image" src="https://user-images.githubusercontent.com/63532613/211927938-c6c027f5-01b1-4562-a2a7-527a2a8fd29e.png">
   </p>
 
+---	
+
 ## Trying out Commands on the Terminal
 
 Now that you have set up the Visual Studio code and established a remote connection, it is now time to try out some commands. The following are some of the commands you can execute:
@@ -66,3 +73,5 @@ Now that you have set up the Visual Studio code and established a remote connect
 <ins>*Challenge Question*</ins>
   
 *Try to find a file called perl5 and use the cd command to reach it. To verify if you have been able to reach the file use the `pwd` command*
+  
+ ---	
