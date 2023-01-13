@@ -70,6 +70,11 @@ Now that you have set up the Visual Studio code and established a remote connect
 * cd
 * cat <fileName>
 
+  <p align="center">
+ <img width="477" alt="image" src="https://user-images.githubusercontent.com/63532613/212389903-33486dcf-0cfb-4d9e-840d-9620ead344b8.png">
+  </p>
+
+  
 <ins>*Challenge Question*</ins>
   
 *Try to find a file called perl5 and use the cd command to reach it. To verify if you have been able to reach the file use the `pwd` command*
