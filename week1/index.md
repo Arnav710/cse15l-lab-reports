@@ -62,21 +62,63 @@ Complete the part that says `???` looking at the username of your CSE 15L accoun
 
 Now that you have set up the Visual Studio code and established a remote connection, it is now time to try out some commands. The following are some of the commands you can execute:
 
-* pwd
-* ls
-* ls -a
-* ls 
-* ls -lat
-* cd
-* cat <fileName>
+* ```pwd```
+This command can be used to print the working directory so that users get to know which folder they are currently in.
+
+```
+[cs15lwi23aaq@ieng6-203]:~:88$ pwd
+/home/linux/ieng6/cs15lwi23/cs15lwi23aaq
+```
+
+* ```ls```
+This command can be used to list the files and folders that are present in the current directory. Users can either run these files or navigate into certain folders as per their requirements.
+
+```
+[cs15lwi23aaq@ieng6-203]:~:89$ ls
+perl5  wavelet
+```
+
+* ```ls -a```
+This command is used to list all the files and folders that are present in the current directory, even the hidden ones!
+
+```
+[cs15lwi23aaq@ieng6-203]:~:90$ ls -a
+.   .bash_history  .bashrc  .config  .kshrc  .locallogin  .modulesbegenv  .pki         .profile   .zshenv  perl5
+..  .bash_profile  .cache   .cshrc   .local  .login       .motd           .procmailrc  .zprofile  .zshrc   wavelet
+```
+
+* ```ls -lat```
+Want to access more information about the files and folders present in this directory? You can use this command to achieve your goal. It will give you all the information you need about the user, host, and time of creation for each of the files and folders.
+
+<p align="center">
+      <img width="354" alt="image" src="https://user-images.githubusercontent.com/63532613/214352925-147327ef-1d35-4c83-a7db-474a71830834.png">
+  </p>
+
+* ```cd```
+Now that you know how to check the directory you are currenly in, you may wonder how you can move over to some other directory to access files and folders that are present there. The cd command stands for "change directory," and can help you do the same.
+
+```
+[cs15lwi23aaq@ieng6-203]:~:92$ cd wavelet
+[cs15lwi23aaq@ieng6-203]:wavelet:93$ pwd
+/home/linux/ieng6/cs15lwi23/cs15lwi23aaq/wavelet
+```
+
+* ```cat <fileName>```
+This command can be used to print the contents of any text based file to the terminal. It's quite interesting that we can even print out the contents of a `.java` file since it is also a form of a text file at the end of the day. Moreover, we can print the conent of multiple files as well by separating the file names using spaces.
 
   <p align="center">
-      <img width="473" alt="image" src="https://user-images.githubusercontent.com/63532613/212390160-a326843e-a805-4a24-8adb-80796e64d027.png">
+      <img width="458" alt="image" src="https://user-images.githubusercontent.com/63532613/214354462-b72c7e8a-6ab4-4a05-8688-565a4a0c8a39.png">
   </p>
 
   
 <ins>*Challenge Question*</ins>
   
 *Try to find a file called perl5 and use the cd command to reach it. To verify if you have been able to reach the file use the `pwd` command*
+  
+<ins>*Answer*</ins>
+
+<p align = "center">
+  <img width="214" alt="image" src="https://user-images.githubusercontent.com/63532613/214354766-64f3a686-4159-45f6-b0ed-5f0bb80fb436.png">
+ </p>
   
  ---	
