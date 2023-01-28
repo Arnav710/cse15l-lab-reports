@@ -149,6 +149,7 @@ public class StringServer {
   <p align="center">
   <img width="500" alt="image" src="https://user-images.githubusercontent.com/63532613/215254001-355f2fd5-ac2e-4d21-a811-d905c23e13cc.png">
   </p>
+  ---
   
   ## Part 3: New Learnings
   
@@ -157,4 +158,4 @@ public class StringServer {
   * Degugging is a critical component of software development and it was great to learn about how debugging should be approached in a structural and logical manner. The multiple exercises from the Week 3 lab made me learn about importance of coming up with a series of error inducing inputs and then trying to isolate the potential causes for those. 
   * It was also very intersting to think about how multiple bugs in the program may be leading to the same symptom, making it even harrder to debug!
   
-                                   
+ ---
