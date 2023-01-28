@@ -152,7 +152,7 @@ public class StringServer {
   ---
   
   ## Part 3: New Learnings
-  
+
   * Over the past few months I had been trying to pick up web development by self learning HTML, CSS, JavaScript, and React. So, I found it pretty interesting to learn more about the URLHandler interface in Java and the kinds of programs you can create with it.
   * Experimenting with the `NumberSever.java` file are running it on the remote server truly made me understand the importance of connecting to a remote server for classes like CSE 15L. Unlike the localhost, the website could be accessed from any system over the internet since it was being run and hosted by a centralized server.
   * Degugging is a critical component of software development and it was great to learn about how debugging should be approached in a structural and logical manner. The multiple exercises from the Week 3 lab made me learn about importance of coming up with a series of error inducing inputs and then trying to isolate the potential causes for those. 
