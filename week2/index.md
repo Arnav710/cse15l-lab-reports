@@ -5,6 +5,7 @@ The following are the various components from this lab report:
 1. __Part 1__ : Writing a web server
 2. __Part 2__ : Failure Inducing Input, Symptoms, Bugs
 3. __Part 3__ : New Learnings
+
 ---
 
 ## Part 1: Writing a web server
@@ -150,9 +151,9 @@ public class StringServer {
   <img width="500" alt="image" src="https://user-images.githubusercontent.com/63532613/215254001-355f2fd5-ac2e-4d21-a811-d905c23e13cc.png">
   </p>
   
-  ---
+---
   
-  ## Part 3: New Learnings
+## Part 3: New Learnings
 
   * Over the past few months I had been trying to pick up web development by self learning HTML, CSS, JavaScript, and React. So, I found it pretty interesting to learn more about the URLHandler interface in Java and the kinds of programs you can create with it.
   * Experimenting with the `NumberSever.java` file are running it on the remote server truly made me understand the importance of connecting to a remote server for classes like CSE 15L. Unlike the localhost, the website could be accessed from any system over the internet since it was being run and hosted by a centralized server.
