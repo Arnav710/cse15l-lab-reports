@@ -70,7 +70,7 @@ public class StringServer {
   The values of the relevant fields change in the following manner:
   * `params = {"s", "--------"}`
   * `inputList = {"--------"}`
-  * `new URI("http://localhost:4000/add-message?s=--------")`
+  * `url = new URI("http://localhost:4000/add-message?s=--------")`
   
    <p align="center">
   <img width="750" alt="image" src="https://user-images.githubusercontent.com/63532613/215251576-cc22ca41-408b-4384-9c21-ac9e1c5a7d08.png">
@@ -80,7 +80,7 @@ public class StringServer {
   The values of the relevant fields change in the following manner:
   * `params = {"s", "This is a line"}`
   * `inputList = {"--------", "This is a line"}`
-  * `new URI("http://localhost:4000/add-message?s=This is a line")`
+  * `url = new URI("http://localhost:4000/add-message?s=This is a line")`
   
   When the `inputList` is being displayed, it is converted to a string with all the elements being separated by new line characters.
   
