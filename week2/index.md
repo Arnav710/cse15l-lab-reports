@@ -19,7 +19,7 @@ Here, `/add-message` is the path name and `s=<string>` represents the query wher
 The file `StringServer.java` can be implemented in the follwing way:
   
   ```
-  import java.io.IOException;
+import java.io.IOException;
 import java.net.URI;
 import java.util.ArrayList;
 
