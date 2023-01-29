@@ -14,7 +14,7 @@ A file called `StringServer.java` was implemented that listened to the incoming 
 
 The following was the format for specifying the path and the query in the URL:`/add-message?s=<string>`
 
-Here, `/add-message` is the path name and `s=<string>` represents the query where <string> is a placeholder for the string that would be entered by the user.
+Here, `/add-message` is the path name and `s=<string>` represents the query where `<string>` is a placeholder for the string that would be entered by the user.
 
 The file `StringServer.java` can be implemented in the follwing way:
   
