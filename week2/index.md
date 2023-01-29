@@ -10,7 +10,7 @@ The following are the various components from this lab report:
 
 ## Part 1: Writing a web server
 
-A file called `StringServer.java` was implemented that listened to the incoming requests and kept a track of the various strings entered by the users in the form of search queries. Following that alld of those queries were displayed on a page, separated by a newline break.
+A file called `StringServer.java` was implemented that listened to the incoming requests and kept a track of the various strings entered by the users in the form of search queries. Following that all of those queries were displayed on a page, separated by a newline break.
 
 The following was the format for specifying the path and the query in the URL:`/add-message?s=<string>`
 
@@ -70,6 +70,7 @@ public class StringServer {
   The values of the relevant fields change in the following manner:
   * `params = {"s", "--------"}`
   * `inputList = {"--------"}`
+  * `new URI("http://localhost:4000/add-message?s=--------")`
   
    <p align="center">
   <img width="750" alt="image" src="https://user-images.githubusercontent.com/63532613/215251576-cc22ca41-408b-4384-9c21-ac9e1c5a7d08.png">
@@ -79,6 +80,7 @@ public class StringServer {
   The values of the relevant fields change in the following manner:
   * `params = {"s", "This is a line"}`
   * `inputList = {"--------", "This is a line"}`
+  * `new URI("http://localhost:4000/add-message?s=This is a line")`
   
   When the `inputList` is being displayed, it is converted to a string with all the elements being separated by new line characters.
   
