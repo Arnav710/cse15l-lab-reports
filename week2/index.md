@@ -49,7 +49,7 @@ public class StringServer {
     public static void main(String[] args) throws IOException {
         if (args.length == 0) {
             System.out.println(
-                    "You forgot to pass the PORT number as a coomand line argument! Try any number between 1024 and 49151");
+            "You forgot to pass the PORT number as a command line argument!");
             return;
         }
 
