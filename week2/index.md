@@ -82,8 +82,9 @@ public class StringServer {
   
   When the `inputList` is being displayed, it is converted to a string with all the elements being separated by new line characters.
   
-  ---
-## Part 2: Failure Induing Inputs, Symptoms, Bugs
+---
+
+## Part 2: Failure Inducing Inputs, Symptoms, Bugs
   
   We will be taking the example of a function called that is supposed to reverse the elements of an array in place. This means that when an array is passed into that function as a parameter, its values should be modified such the array appears to be flipped around. The given code for the same in `ArrayExamples.java` has a bug and we'll be trying to resolve the same.
   
