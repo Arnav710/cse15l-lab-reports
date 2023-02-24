@@ -53,7 +53,7 @@ Copy the ssh key to clone the fork of the repository from github.
 
 On the terminal, type `git clone <Ctrl - V>`. Here, `Ctrl - V` would paste the link of the repository onto the terminal. Then you can simply press enter to run the command.
 
-![image](https://user-images.githubusercontent.com/63532613/221066647-b1c5a7b7-a668-45ac-96fa-e8e4312d8501.png)
+![image](https://user-images.githubusercontent.com/63532613/221071297-52341ce0-72ed-4c18-a691-e8f3d9f5308d.png)
 
 ### Step 6: Run the tests, demonstrating that they fail
 
