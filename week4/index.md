@@ -123,4 +123,4 @@ To push changes to the github repository, `git push origin main`.
 
 The changes pushed can clearly be seen on github as well.
 
-![image](https://user-images.githubusercontent.com/63532613/221071028-b2f56cd8-a6da-451c-b652-6d5d867f2189.png)
+![image](https://user-images.githubusercontent.com/63532613/221071392-7c9f1136-dba6-42d2-817d-09296080f536.png)
