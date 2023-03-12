@@ -186,6 +186,7 @@ File with incorrect name was submitted. Rename to ListExamples.java
 ## In Conclusion
 
 I believe that this grading script does a great job of evaluating submissions, handing some of the edge cases, and catching errors that occcur in the process. However, there is still a lot of room for improvement. Adding the following features would make this script even more robust:
-1) Instead of searching for the file `ListExamples.java` right inside the folder cloned, we could probably try to do a recurive search for it in that folder as well as all of its sub-directories.
-2) The output could be formatted in a sligtly better manner.
-3) A message of encouragement can be added when all the JUnit tests pass successfully!
+* Instead of searching for the file `ListExamples.java` right inside the folder cloned, we could probably try to do a recurive search for it in that folder as well as all of its sub-directories.
+* The output could be formatted in a sligtly better manner.
+* A message of encouragement can be added when all the JUnit tests pass successfully!
+
