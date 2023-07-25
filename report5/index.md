@@ -11,7 +11,7 @@ For this lab report, I will be showcasing my grading scirpt by showing it's cont
 
 ---
 
-## The Bash Script for Grading
+## Bash Script for Grading
 
 The following segment displays my bash script, I have tried to add some comments in the bash script as well so that you can easily keep a track of what each of the components of the script does. Subsequently, I will be showing how to run it and give various examples of doing so.
 
